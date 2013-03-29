@@ -18,7 +18,7 @@ Samples:
     SelfExtractorMaker.exe -exe DeployScripts.exe -program cmd.exe -arguments "/c {DQ}{Path}\run.bat{DQ} {Path}" -files run.bat script1.js script2.js
 
 ## .NET Framework
-SelfExtractorMaker is written in C# using .NET 4.0.
+SelfExtractorMaker is written in C# using .NET 4.5.
 
 ## Copyright
 Copyright (c) 2013 Frederic Torres
